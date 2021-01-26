@@ -1,0 +1,51 @@
+*{
+    margin: 2PX;
+    padding: 0px;
+}
+
+.container {
+    margin-left: 3%;
+    margin-right: 3%;
+    margin-top: 2PX;
+    background-color: aqua;
+    color: violet;
+    height: 80%;
+    border: 20PX brown;
+    border-radius: 15px;
+}
+
+.btn-div {
+    text-align: center;
+    width: 90%;
+    margin-bottom: 20PX;
+}
+
+.btn-div button {
+    background-color: blueviolet;
+    border: 5p white solid;
+    border-radius: 5px;
+    height: 30PX;
+    font-weight: bold;
+    color: beige;
+    margin-top: 2%;
+}
+
+.circulo {
+    margin-left: 40%;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 10px blue;
+    background: red;
+}
+
+.cuadrado {
+    width: 100px;
+    height: 100px;
+    background: royalblue;
+    margin-left: 40%;
+    margin-top: 50px;
+}
+
+
+
